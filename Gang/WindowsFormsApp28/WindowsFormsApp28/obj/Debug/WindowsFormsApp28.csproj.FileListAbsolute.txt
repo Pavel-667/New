@@ -1,0 +1,96 @@
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form2.resources
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.CoreCompileInputs.cache
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\kuzem\source\repos\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form2.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form3.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form4.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form5.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form6.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form7.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form8.resources
+C:\Users\Гость.B403-07.005\Desktop\14.03\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form9.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form2.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form3.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form4.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form5.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form6.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form7.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form8.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form9.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\Гость\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form2.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form3.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form4.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form5.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form6.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form7.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form8.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form9.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+C:\Users\Гость.B403-07.006\Desktop\по вариантам\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form2.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form3.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form4.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form5.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form6.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form7.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form8.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form9.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+D:\ИС1-33\УП 06\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe.config
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.exe
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\bin\Debug\WindowsFormsApp28.pdb
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csprojAssemblyReference.cache
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form1.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form2.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form3.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form4.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form5.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form6.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form7.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form8.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Form9.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.Properties.Resources.resources
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.csproj.GenerateResource.cache
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.exe
+D:\ИС1-34\yp 06\WindowsFormsApp28\WindowsFormsApp28\WindowsFormsApp28\obj\Debug\WindowsFormsApp28.pdb
